@@ -1,0 +1,51 @@
+ID,Age,Region,Income,Spending,Town
+1,80,Rural,41234,176,Forest Hollow
+21,64,Rural,30496,90,Cedar Valley
+41,74,Urban,63519,2072,Brighton
+61,60,Rural,35131,1114,Cedar Valley
+81,69,Rural,28473,753,Meadowtown
+101,30,Urban,78273,672,Brookfield
+121,52,Urban,88730,4444,Stonebridge
+141,79,Urban,47250,1948,Maple Heights
+161,67,Urban,63275,5289,Silverlake
+181,56,Urban,68738,5986,Lakeside
+201,32,Urban,66350,5201,Brookfield
+221,59,Urban,109429,11783,Hilltop
+241,36,Rural,32422,54,Pineville
+261,41,Urban,73374,4509,Hilltop
+281,74,Urban,84437,2988,Maple Heights
+301,73,Urban,73016,431,Silverlake
+321,25,Urban,72837,3543,Maple Heights
+341,62,Urban,79401,8813,Stonebridge
+361,64,Rural,30768,178,Forest Hollow
+381,36,Urban,66292,12457,Lakeside
+401,67,Urban,58516,1262,Silverlake
+421,51,Rural,32091,383,Pineville
+441,25,Urban,61460,743,Riverfall
+461,37,Urban,60769,5584,Silverlake
+481,55,Rural,27796,1122,Forest Hollow
+501,21,Urban,73233,10479,Maple Heights
+521,79,Urban,38271,3790,Maple Heights
+541,67,Urban,72223,6603,Lakeside
+561,57,Rural,34234,308,Pineville
+581,57,Urban,62328,5962,Riverfall
+601,59,Urban,66174,5584,Hilltop
+621,57,Urban,133833,5033,Grassville
+641,33,Urban,89915,4672,Riverfall
+661,38,Urban,86087,2327,Hilltop
+681,47,Rural,29215,700,Cedar Valley
+701,52,Rural,34333,71,Willowbrook
+721,32,Rural,25740,1282,Willowbrook
+741,44,Urban,67544,251,Maple Heights
+761,38,Urban,93950,14615,Brighton
+781,77,Urban,98584,960,Stonebridge
+801,38,Urban,60454,2705,Lakeside
+821,27,Rural,28640,252,Pineville
+841,77,Urban,65600,2623,Sunset City
+861,37,Urban,47489,5532,Stonebridge
+881,55,Urban,90307,2653,Maple Heights
+901,25,Urban,64427,818,Brookfield
+921,76,Urban,159854,918,Grassville
+941,48,Urban,45034,1004,Hilltop
+961,66,Urban,101212,2619,Silverlake
+981,72,Rural,32785,1048,Meadowtown

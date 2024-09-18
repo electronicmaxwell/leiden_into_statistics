@@ -1,0 +1,203 @@
+ID,Age,Region,Income,Spending,Town
+13,40,Urban,163582,5933,Grassville
+16,67,Urban,164181,5873,Grassville
+19,27,Urban,72717,877,Hilltop
+23,65,Urban,107196,2468,Hilltop
+25,37,Urban,144872,1809,Grassville
+30,34,Urban,137756,1469,Grassville
+34,21,Urban,60043,3650,Hilltop
+35,20,Urban,57806,906,Sunset City
+39,38,Urban,155044,2654,Grassville
+50,56,Urban,70931,530,Sunset City
+51,51,Urban,165845,2788,Grassville
+59,58,Urban,96230,3345,Sunset City
+63,18,Urban,78044,5935,Sunset City
+84,24,Urban,137527,2147,Grassville
+86,70,Urban,173955,2591,Grassville
+88,29,Urban,60307,4439,Sunset City
+89,72,Urban,145661,8022,Grassville
+91,19,Urban,88031,1827,Sunset City
+97,68,Urban,101509,1281,Sunset City
+99,74,Urban,76142,4989,Hilltop
+104,19,Urban,164825,3105,Grassville
+105,69,Urban,65700,1604,Sunset City
+119,57,Urban,70377,4050,Hilltop
+125,69,Urban,59518,4337,Sunset City
+129,27,Urban,152751,9726,Grassville
+133,37,Urban,158768,8906,Grassville
+136,30,Urban,56944,6781,Sunset City
+143,28,Urban,55562,5937,Sunset City
+156,33,Urban,41662,4408,Sunset City
+159,43,Urban,67544,922,Hilltop
+160,63,Urban,81633,2359,Sunset City
+163,53,Urban,92442,719,Hilltop
+164,47,Urban,56661,10371,Sunset City
+166,37,Urban,52099,3716,Sunset City
+168,48,Urban,52291,694,Hilltop
+170,47,Urban,78168,3020,Sunset City
+175,80,Urban,78674,664,Hilltop
+180,25,Urban,83801,958,Hilltop
+183,24,Urban,104691,1906,Sunset City
+185,46,Urban,89400,2052,Sunset City
+203,19,Urban,83359,4022,Hilltop
+217,62,Urban,153811,2584,Grassville
+221,59,Urban,109429,11783,Hilltop
+227,35,Urban,148759,1617,Grassville
+231,23,Urban,81670,816,Sunset City
+251,44,Urban,127854,1403,Grassville
+253,74,Urban,73493,3281,Hilltop
+258,76,Urban,120922,3018,Grassville
+259,76,Urban,86856,1288,Hilltop
+261,41,Urban,73374,4509,Hilltop
+264,75,Urban,67650,4946,Sunset City
+265,64,Urban,151827,2024,Grassville
+270,39,Urban,147754,9262,Grassville
+275,41,Urban,79221,4716,Hilltop
+276,41,Urban,156099,2052,Grassville
+286,51,Urban,57839,3495,Sunset City
+295,54,Urban,132595,2411,Grassville
+302,52,Urban,62461,12871,Sunset City
+307,43,Urban,89967,1450,Hilltop
+309,76,Urban,83947,4476,Hilltop
+328,56,Urban,142895,956,Grassville
+329,23,Urban,73714,12488,Hilltop
+343,53,Urban,85621,4348,Sunset City
+346,57,Urban,147912,3746,Grassville
+353,32,Urban,57822,5785,Hilltop
+360,66,Urban,68287,1769,Sunset City
+364,33,Urban,74337,5557,Sunset City
+367,64,Urban,73988,3211,Sunset City
+369,38,Urban,73897,2492,Sunset City
+375,39,Urban,70012,1598,Sunset City
+377,57,Urban,161296,5067,Grassville
+383,44,Urban,82923,285,Hilltop
+386,76,Urban,80962,57,Sunset City
+388,19,Urban,159524,5492,Grassville
+398,65,Urban,59507,3138,Sunset City
+412,37,Urban,77140,5522,Hilltop
+416,59,Urban,96335,8333,Sunset City
+418,53,Urban,135593,1912,Grassville
+422,71,Urban,80253,915,Sunset City
+425,76,Urban,140340,1028,Grassville
+428,39,Urban,76576,6069,Sunset City
+436,37,Urban,71573,2349,Sunset City
+437,34,Urban,33947,1221,Sunset City
+449,56,Urban,55450,3624,Hilltop
+451,65,Urban,79005,2574,Hilltop
+456,78,Urban,154181,744,Grassville
+458,35,Urban,92357,11786,Sunset City
+459,55,Urban,69838,7425,Hilltop
+463,24,Urban,76858,7893,Hilltop
+473,51,Urban,68267,8738,Sunset City
+475,18,Urban,152765,3082,Grassville
+478,80,Urban,78137,1350,Hilltop
+495,50,Urban,20044,1584,Hilltop
+496,36,Urban,152689,8127,Grassville
+498,75,Urban,164810,1872,Grassville
+513,48,Urban,76939,4590,Hilltop
+516,49,Urban,79681,3118,Sunset City
+523,42,Urban,154717,7306,Grassville
+525,45,Urban,85635,5427,Hilltop
+526,19,Urban,157869,3808,Grassville
+529,19,Urban,158919,6374,Grassville
+533,66,Urban,62200,1467,Sunset City
+535,74,Urban,145901,4645,Grassville
+536,38,Urban,79158,8483,Sunset City
+538,48,Urban,93851,1797,Hilltop
+544,18,Urban,53576,1182,Hilltop
+546,46,Urban,136136,2748,Grassville
+549,78,Urban,80697,14181,Sunset City
+551,46,Urban,20559,720,Hilltop
+557,49,Urban,87580,2887,Hilltop
+562,43,Urban,54985,4639,Sunset City
+563,65,Urban,94798,6190,Sunset City
+567,49,Urban,169872,2813,Grassville
+570,59,Urban,152230,6107,Grassville
+574,23,Urban,93248,3274,Sunset City
+586,27,Urban,43494,5154,Sunset City
+587,69,Urban,83642,5466,Sunset City
+589,64,Urban,142423,1395,Grassville
+592,67,Urban,141431,2686,Grassville
+594,79,Urban,63782,4904,Hilltop
+599,57,Urban,49891,5528,Hilltop
+601,59,Urban,66174,5584,Hilltop
+605,25,Urban,67076,3377,Hilltop
+607,65,Urban,76917,1142,Hilltop
+614,44,Urban,64299,3308,Hilltop
+616,77,Urban,70902,1232,Hilltop
+619,70,Urban,157626,5843,Grassville
+621,57,Urban,133833,5033,Grassville
+622,80,Urban,130069,5340,Grassville
+639,42,Urban,139790,3340,Grassville
+644,50,Urban,79815,4140,Hilltop
+647,71,Urban,172690,1127,Grassville
+661,38,Urban,86087,2327,Hilltop
+663,36,Urban,92851,5448,Hilltop
+664,78,Urban,56281,11066,Hilltop
+667,77,Urban,88562,5598,Sunset City
+675,20,Urban,65144,5927,Hilltop
+685,54,Urban,159064,3337,Grassville
+687,25,Urban,67733,8264,Sunset City
+696,38,Urban,75067,8993,Hilltop
+710,33,Urban,69278,8161,Sunset City
+714,22,Urban,56450,7559,Sunset City
+724,39,Urban,83149,3771,Sunset City
+730,35,Urban,70758,7459,Sunset City
+738,40,Urban,84770,5913,Hilltop
+742,54,Urban,160783,4827,Grassville
+747,54,Urban,84589,8631,Hilltop
+755,38,Urban,94478,3966,Hilltop
+756,80,Urban,96124,3673,Sunset City
+757,46,Urban,79545,10122,Hilltop
+760,44,Urban,147051,8127,Grassville
+766,56,Urban,72171,5027,Hilltop
+777,49,Urban,154417,2373,Grassville
+778,62,Urban,96924,4178,Sunset City
+780,50,Urban,94505,3240,Sunset City
+786,24,Urban,153066,1882,Grassville
+788,74,Urban,91845,809,Hilltop
+796,57,Urban,66590,2515,Hilltop
+797,45,Urban,148429,9188,Grassville
+803,64,Urban,59766,4557,Hilltop
+804,73,Urban,149490,2002,Grassville
+815,40,Urban,148155,769,Grassville
+820,47,Urban,145437,1142,Grassville
+823,80,Urban,79973,3319,Sunset City
+831,69,Urban,87854,2407,Sunset City
+835,53,Urban,58399,1925,Sunset City
+841,77,Urban,65600,2623,Sunset City
+849,57,Urban,65736,5509,Sunset City
+852,40,Urban,82146,3345,Sunset City
+857,64,Urban,47430,2858,Hilltop
+859,76,Urban,150151,6609,Grassville
+862,64,Urban,70264,2577,Sunset City
+864,23,Urban,144398,4658,Grassville
+868,26,Urban,83619,2856,Sunset City
+876,23,Urban,100586,4838,Hilltop
+886,80,Urban,147536,1572,Grassville
+909,62,Urban,144815,4464,Grassville
+911,40,Urban,146350,5734,Grassville
+912,66,Urban,155519,5920,Grassville
+915,77,Urban,73759,5004,Sunset City
+921,76,Urban,159854,918,Grassville
+927,46,Urban,76550,3642,Hilltop
+931,27,Urban,147402,1087,Grassville
+933,64,Urban,77155,2047,Sunset City
+936,19,Urban,154511,4195,Grassville
+940,42,Urban,152642,3494,Grassville
+941,48,Urban,45034,1004,Hilltop
+944,63,Urban,84597,5101,Sunset City
+947,50,Urban,154712,1205,Grassville
+951,57,Urban,71540,2846,Hilltop
+956,51,Urban,150191,12312,Grassville
+957,80,Urban,66971,4072,Hilltop
+966,52,Urban,55856,3786,Hilltop
+973,61,Urban,84554,5797,Sunset City
+974,49,Urban,83811,11189,Sunset City
+977,47,Urban,147574,9099,Grassville
+978,61,Urban,82759,4161,Sunset City
+984,80,Urban,77745,2624,Hilltop
+986,40,Urban,80266,3360,Hilltop
+990,77,Urban,58696,4866,Sunset City
+997,41,Urban,97583,826,Sunset City
+998,68,Urban,111832,6774,Sunset City

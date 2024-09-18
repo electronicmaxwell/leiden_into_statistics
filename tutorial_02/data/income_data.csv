@@ -1,0 +1,1001 @@
+ID,Age,Region,Income,Spending,Town
+1,80,Rural,41234,176,Forest Hollow
+2,63,Urban,92689,4847,Stonebridge
+3,80,Rural,42564,793,Cedar Valley
+4,20,Rural,33606,464,Cedar Valley
+5,46,Rural,22115,58,Cedar Valley
+6,52,Urban,49622,3264,Maple Heights
+7,56,Urban,96951,3123,Stonebridge
+8,35,Urban,108610,5852,Maple Heights
+9,37,Urban,91433,4124,Stonebridge
+10,60,Rural,31879,60,Meadowtown
+11,77,Urban,60935,5300,Riverfall
+12,75,Urban,68576,3012,Riverfall
+13,40,Urban,163582,5933,Grassville
+14,51,Urban,70477,3032,Brighton
+15,50,Rural,30834,623,Pineville
+16,67,Urban,164181,5873,Grassville
+17,80,Urban,83861,2997,Stonebridge
+18,65,Urban,76676,1145,Brighton
+19,27,Urban,72717,877,Hilltop
+20,50,Urban,77708,2255,Silverlake
+21,64,Rural,30496,90,Cedar Valley
+22,50,Urban,80981,5041,Brookfield
+23,65,Urban,107196,2468,Hilltop
+24,43,Rural,31067,602,Willowbrook
+25,37,Urban,144872,1809,Grassville
+26,32,Urban,77328,3773,Brookfield
+27,79,Urban,88455,3883,Silverlake
+28,54,Urban,64472,3803,Silverlake
+29,50,Urban,55187,4317,Maple Heights
+30,34,Urban,137756,1469,Grassville
+31,22,Rural,25918,69,Meadowtown
+32,67,Urban,84787,2471,Brighton
+33,73,Urban,73318,1100,Riverfall
+34,21,Urban,60043,3650,Hilltop
+35,20,Urban,57806,906,Sunset City
+36,38,Rural,28926,464,Cedar Valley
+37,57,Urban,92769,8099,Maple Heights
+38,20,Rural,31978,1425,Willowbrook
+39,38,Urban,155044,2654,Grassville
+40,65,Urban,53712,2235,Brighton
+41,74,Urban,63519,2072,Brighton
+42,79,Rural,21234,2471,Cedar Valley
+43,66,Urban,61626,7960,Silverlake
+44,25,Urban,59965,1504,Silverlake
+45,59,Urban,96956,3010,Maple Heights
+46,53,Rural,35004,145,Forest Hollow
+47,78,Urban,63852,5054,Silverlake
+48,46,Rural,33373,35,Forest Hollow
+49,70,Urban,97038,3221,Lakeside
+50,56,Urban,70931,530,Sunset City
+51,51,Urban,165845,2788,Grassville
+52,39,Urban,88428,1332,Silverlake
+53,72,Urban,81242,5518,Brookfield
+54,48,Urban,72266,337,Silverlake
+55,45,Rural,34785,1032,Pineville
+56,52,Urban,57937,1500,Lakeside
+57,51,Rural,34141,159,Forest Hollow
+58,30,Urban,74062,2949,Silverlake
+59,58,Urban,96230,3345,Sunset City
+60,21,Urban,79837,8569,Brighton
+61,60,Rural,35131,1114,Cedar Valley
+62,23,Urban,47241,1008,Lakeside
+63,18,Urban,78044,5935,Sunset City
+64,29,Urban,67530,481,Brighton
+65,52,Urban,82916,2490,Lakeside
+66,76,Rural,33570,106,Cedar Valley
+67,28,Urban,63917,3017,Brookfield
+68,40,Rural,24084,337,Willowbrook
+69,31,Urban,82968,3485,Maple Heights
+70,36,Rural,40283,391,Pineville
+71,54,Rural,30746,433,Cedar Valley
+72,33,Rural,24071,91,Willowbrook
+73,61,Urban,63873,4876,Lakeside
+74,45,Rural,31367,342,Cedar Valley
+75,79,Rural,21976,92,Pineville
+76,62,Urban,87178,272,Lakeside
+77,48,Rural,35446,869,Pineville
+78,70,Rural,26469,231,Willowbrook
+79,24,Urban,79438,1770,Brookfield
+80,63,Urban,71370,1719,Lakeside
+81,69,Rural,28473,753,Meadowtown
+82,44,Urban,78970,1577,Riverfall
+83,34,Urban,72432,5815,Stonebridge
+84,24,Urban,137527,2147,Grassville
+85,32,Urban,48400,2707,Stonebridge
+86,70,Urban,173955,2591,Grassville
+87,57,Urban,63378,1496,Lakeside
+88,29,Urban,60307,4439,Sunset City
+89,72,Urban,145661,8022,Grassville
+90,25,Urban,77759,5965,Brighton
+91,19,Urban,88031,1827,Sunset City
+92,61,Urban,88219,3664,Riverfall
+93,76,Rural,36885,312,Forest Hollow
+94,55,Rural,41743,368,Cedar Valley
+95,73,Rural,37797,1389,Meadowtown
+96,43,Rural,39776,426,Meadowtown
+97,68,Urban,101509,1281,Sunset City
+98,38,Urban,69895,2521,Silverlake
+99,74,Urban,76142,4989,Hilltop
+100,67,Urban,70946,4599,Riverfall
+101,30,Urban,78273,672,Brookfield
+102,36,Urban,59628,10499,Brighton
+103,35,Urban,62130,1940,Maple Heights
+104,19,Urban,164825,3105,Grassville
+105,69,Urban,65700,1604,Sunset City
+106,62,Rural,38450,514,Willowbrook
+107,71,Urban,88646,4999,Riverfall
+108,59,Urban,74795,3799,Brookfield
+109,66,Urban,71232,3912,Brookfield
+110,74,Rural,31306,128,Cedar Valley
+111,45,Rural,34616,139,Forest Hollow
+112,67,Urban,82204,1150,Brookfield
+113,40,Rural,31901,154,Pineville
+114,21,Rural,34833,31,Meadowtown
+115,21,Urban,81678,5890,Riverfall
+116,29,Rural,32633,411,Pineville
+117,39,Rural,35802,284,Cedar Valley
+118,43,Urban,60433,4282,Riverfall
+119,57,Urban,70377,4050,Hilltop
+120,59,Urban,90276,2511,Silverlake
+121,52,Urban,88730,4444,Stonebridge
+122,21,Urban,90586,3879,Brookfield
+123,29,Urban,73168,3260,Silverlake
+124,21,Urban,81184,4070,Brighton
+125,69,Urban,59518,4337,Sunset City
+126,74,Rural,34234,1363,Cedar Valley
+127,48,Urban,70325,3509,Stonebridge
+128,24,Urban,84528,2442,Maple Heights
+129,27,Urban,152751,9726,Grassville
+130,41,Rural,33737,139,Meadowtown
+131,32,Urban,72582,6553,Brookfield
+132,56,Urban,78755,3435,Lakeside
+133,37,Urban,158768,8906,Grassville
+134,75,Rural,37400,3,Forest Hollow
+135,24,Rural,38127,34,Meadowtown
+136,30,Urban,56944,6781,Sunset City
+137,72,Urban,63491,1868,Lakeside
+138,45,Urban,64436,5807,Maple Heights
+139,56,Rural,30431,683,Forest Hollow
+140,35,Rural,36734,356,Willowbrook
+141,79,Urban,47250,1948,Maple Heights
+142,64,Urban,70399,2221,Riverfall
+143,28,Urban,55562,5937,Sunset City
+144,53,Urban,74214,1434,Brookfield
+145,70,Urban,82269,2618,Riverfall
+146,53,Rural,30613,2740,Pineville
+147,19,Rural,33850,26,Meadowtown
+148,65,Urban,69934,14799,Lakeside
+149,63,Urban,79670,7233,Brighton
+150,34,Urban,66292,9865,Brighton
+151,23,Rural,29530,581,Cedar Valley
+152,58,Rural,26170,178,Meadowtown
+153,63,Urban,105211,1076,Maple Heights
+154,40,Rural,28385,701,Pineville
+155,64,Urban,85124,9053,Stonebridge
+156,33,Urban,41662,4408,Sunset City
+157,77,Urban,54808,1671,Lakeside
+158,58,Rural,43509,580,Cedar Valley
+159,43,Urban,67544,922,Hilltop
+160,63,Urban,81633,2359,Sunset City
+161,67,Urban,63275,5289,Silverlake
+162,18,Rural,27286,109,Cedar Valley
+163,53,Urban,92442,719,Hilltop
+164,47,Urban,56661,10371,Sunset City
+165,19,Rural,31884,2050,Willowbrook
+166,37,Urban,52099,3716,Sunset City
+167,22,Urban,80141,6258,Brighton
+168,48,Urban,52291,694,Hilltop
+169,25,Rural,32984,281,Forest Hollow
+170,47,Urban,78168,3020,Sunset City
+171,56,Rural,26267,288,Pineville
+172,78,Urban,79863,2184,Brookfield
+173,19,Rural,30078,4,Willowbrook
+174,70,Urban,88976,1543,Lakeside
+175,80,Urban,78674,664,Hilltop
+176,30,Urban,68474,2129,Brighton
+177,21,Urban,66943,1395,Brookfield
+178,62,Rural,25265,5,Willowbrook
+179,69,Rural,27101,657,Meadowtown
+180,25,Urban,83801,958,Hilltop
+181,56,Urban,68738,5986,Lakeside
+182,42,Urban,73152,551,Lakeside
+183,24,Urban,104691,1906,Sunset City
+184,31,Urban,62323,3203,Lakeside
+185,46,Urban,89400,2052,Sunset City
+186,62,Rural,31389,103,Pineville
+187,38,Urban,89032,3620,Silverlake
+188,54,Rural,29371,971,Meadowtown
+189,73,Rural,33196,325,Willowbrook
+190,66,Urban,91684,2531,Lakeside
+191,50,Urban,57296,4173,Lakeside
+192,75,Rural,27129,66,Pineville
+193,58,Rural,31045,10,Willowbrook
+194,42,Urban,73963,2777,Maple Heights
+195,70,Rural,33078,385,Pineville
+196,76,Urban,75951,2416,Brighton
+197,76,Rural,48427,313,Meadowtown
+198,63,Urban,85736,1271,Silverlake
+199,31,Rural,32965,254,Willowbrook
+200,26,Rural,28956,163,Forest Hollow
+201,32,Urban,66350,5201,Brookfield
+202,24,Urban,56813,4994,Maple Heights
+203,19,Urban,83359,4022,Hilltop
+204,48,Urban,69911,2210,Brighton
+205,24,Urban,70358,936,Stonebridge
+206,58,Urban,65941,2491,Brookfield
+207,73,Rural,32653,174,Pineville
+208,28,Urban,66998,3090,Maple Heights
+209,30,Urban,68750,4781,Silverlake
+210,30,Urban,59349,6863,Lakeside
+211,43,Urban,69063,6474,Stonebridge
+212,60,Urban,82213,1284,Maple Heights
+213,77,Urban,78820,8355,Maple Heights
+214,67,Rural,33734,1552,Pineville
+215,25,Rural,21143,767,Pineville
+216,31,Urban,81003,5508,Brookfield
+217,62,Urban,153811,2584,Grassville
+218,77,Rural,32704,292,Forest Hollow
+219,19,Urban,62672,1971,Stonebridge
+220,73,Rural,32378,937,Pineville
+221,59,Urban,109429,11783,Hilltop
+222,32,Urban,63371,3824,Brookfield
+223,74,Urban,77753,3612,Riverfall
+224,41,Urban,65901,13715,Riverfall
+225,51,Urban,72567,9870,Brighton
+226,21,Urban,68148,7527,Lakeside
+227,35,Urban,148759,1617,Grassville
+228,42,Rural,32018,5,Cedar Valley
+229,64,Rural,30581,353,Pineville
+230,41,Urban,73866,2299,Silverlake
+231,23,Urban,81670,816,Sunset City
+232,51,Urban,65265,837,Lakeside
+233,68,Rural,41487,113,Willowbrook
+234,55,Urban,61467,4386,Riverfall
+235,20,Urban,86783,3239,Lakeside
+236,36,Urban,82381,2368,Maple Heights
+237,64,Rural,36057,274,Forest Hollow
+238,63,Urban,65446,4207,Riverfall
+239,75,Rural,29195,1996,Cedar Valley
+240,53,Rural,28984,145,Pineville
+241,36,Rural,32422,54,Pineville
+242,45,Rural,34386,99,Forest Hollow
+243,64,Urban,78790,7070,Maple Heights
+244,72,Urban,56515,2065,Lakeside
+245,73,Urban,80044,5400,Brighton
+246,27,Urban,57111,1919,Maple Heights
+247,35,Urban,54159,12102,Stonebridge
+248,80,Rural,36165,165,Willowbrook
+249,21,Urban,71382,1889,Brookfield
+250,29,Rural,28317,265,Pineville
+251,44,Urban,127854,1403,Grassville
+252,46,Rural,23982,48,Cedar Valley
+253,74,Urban,73493,3281,Hilltop
+254,29,Urban,68236,5923,Brighton
+255,28,Urban,84261,4485,Brookfield
+256,21,Rural,35258,69,Forest Hollow
+257,63,Rural,28754,480,Willowbrook
+258,76,Urban,120922,3018,Grassville
+259,76,Urban,86856,1288,Hilltop
+260,77,Rural,32799,469,Willowbrook
+261,41,Urban,73374,4509,Hilltop
+262,43,Urban,77957,1373,Brighton
+263,45,Rural,32703,1167,Willowbrook
+264,75,Urban,67650,4946,Sunset City
+265,64,Urban,151827,2024,Grassville
+266,77,Rural,37127,644,Pineville
+267,21,Rural,32254,167,Forest Hollow
+268,53,Urban,87114,6435,Brookfield
+269,32,Urban,91110,1945,Silverlake
+270,39,Urban,147754,9262,Grassville
+271,77,Rural,23489,98,Meadowtown
+272,72,Rural,36618,906,Cedar Valley
+273,66,Rural,28839,133,Willowbrook
+274,74,Urban,70752,14172,Riverfall
+275,41,Urban,79221,4716,Hilltop
+276,41,Urban,156099,2052,Grassville
+277,54,Urban,84037,5847,Stonebridge
+278,22,Rural,23720,407,Forest Hollow
+279,23,Rural,30441,24,Meadowtown
+280,66,Rural,39922,58,Meadowtown
+281,74,Urban,84437,2988,Maple Heights
+282,78,Urban,83414,5537,Stonebridge
+283,27,Urban,84050,1652,Brighton
+284,20,Urban,86969,1553,Riverfall
+285,55,Urban,93940,5087,Maple Heights
+286,51,Urban,57839,3495,Sunset City
+287,23,Urban,83805,1411,Silverlake
+288,78,Urban,64621,5693,Maple Heights
+289,27,Urban,68455,7609,Stonebridge
+290,33,Urban,91686,5313,Brighton
+291,77,Urban,87469,3857,Silverlake
+292,46,Urban,111186,5685,Maple Heights
+293,20,Urban,64639,5744,Lakeside
+294,28,Urban,97306,11917,Maple Heights
+295,54,Urban,132595,2411,Grassville
+296,21,Rural,27338,748,Cedar Valley
+297,66,Rural,39571,1147,Pineville
+298,21,Urban,80189,3945,Brookfield
+299,41,Urban,66295,272,Stonebridge
+300,45,Rural,24623,541,Meadowtown
+301,73,Urban,73016,431,Silverlake
+302,52,Urban,62461,12871,Sunset City
+303,55,Urban,74871,4724,Brighton
+304,67,Urban,102009,1123,Brookfield
+305,41,Urban,58619,1663,Brighton
+306,39,Rural,25985,648,Willowbrook
+307,43,Urban,89967,1450,Hilltop
+308,35,Urban,69115,2307,Stonebridge
+309,76,Urban,83947,4476,Hilltop
+310,20,Urban,69011,3823,Brookfield
+311,63,Rural,31402,1409,Pineville
+312,28,Urban,63865,2337,Lakeside
+313,26,Urban,81667,2748,Riverfall
+314,71,Urban,62375,1073,Brookfield
+315,50,Rural,26985,421,Cedar Valley
+316,43,Rural,36951,45,Pineville
+317,53,Urban,80098,1413,Lakeside
+318,21,Urban,91777,10104,Maple Heights
+319,69,Urban,93983,692,Brighton
+320,19,Rural,28218,1262,Cedar Valley
+321,25,Urban,72837,3543,Maple Heights
+322,24,Rural,37473,219,Forest Hollow
+323,53,Urban,72678,3335,Stonebridge
+324,51,Rural,38152,529,Pineville
+325,57,Urban,106888,1543,Stonebridge
+326,36,Urban,65815,5881,Riverfall
+327,46,Urban,92484,2256,Stonebridge
+328,56,Urban,142895,956,Grassville
+329,23,Urban,73714,12488,Hilltop
+330,27,Urban,72733,1676,Brookfield
+331,58,Rural,34130,617,Willowbrook
+332,59,Urban,73212,2902,Stonebridge
+333,22,Rural,41923,1595,Forest Hollow
+334,76,Urban,67817,8486,Brighton
+335,41,Urban,86171,2858,Brighton
+336,58,Urban,96468,3071,Brighton
+337,39,Rural,34352,174,Forest Hollow
+338,43,Urban,88784,5740,Brookfield
+339,68,Urban,78518,8098,Maple Heights
+340,54,Urban,80147,6415,Lakeside
+341,62,Urban,79401,8813,Stonebridge
+342,46,Urban,45829,2513,Maple Heights
+343,53,Urban,85621,4348,Sunset City
+344,37,Rural,27202,1365,Willowbrook
+345,35,Rural,34009,754,Pineville
+346,57,Urban,147912,3746,Grassville
+347,62,Rural,30110,21,Pineville
+348,79,Urban,58851,8389,Lakeside
+349,58,Urban,95986,5368,Silverlake
+350,71,Urban,107093,3079,Riverfall
+351,73,Urban,69535,925,Stonebridge
+352,73,Rural,39617,239,Willowbrook
+353,32,Urban,57822,5785,Hilltop
+354,32,Rural,24370,241,Cedar Valley
+355,41,Rural,25031,409,Pineville
+356,80,Rural,41482,89,Meadowtown
+357,46,Urban,98887,2652,Brookfield
+358,71,Urban,108410,2788,Lakeside
+359,34,Urban,70561,4287,Brighton
+360,66,Urban,68287,1769,Sunset City
+361,64,Rural,30768,178,Forest Hollow
+362,42,Urban,65717,7875,Silverlake
+363,80,Urban,57212,5223,Riverfall
+364,33,Urban,74337,5557,Sunset City
+365,67,Urban,65955,1823,Maple Heights
+366,34,Urban,53471,4405,Brookfield
+367,64,Urban,73988,3211,Sunset City
+368,64,Urban,70000,4031,Silverlake
+369,38,Urban,73897,2492,Sunset City
+370,61,Urban,82582,3491,Brookfield
+371,65,Urban,73869,2575,Lakeside
+372,44,Rural,27228,252,Cedar Valley
+373,71,Rural,35280,722,Forest Hollow
+374,22,Rural,29598,772,Forest Hollow
+375,39,Urban,70012,1598,Sunset City
+376,50,Urban,72088,4268,Lakeside
+377,57,Urban,161296,5067,Grassville
+378,19,Rural,27186,487,Pineville
+379,52,Rural,35982,1997,Forest Hollow
+380,60,Urban,61485,3628,Silverlake
+381,36,Urban,66292,12457,Lakeside
+382,57,Rural,45013,882,Forest Hollow
+383,44,Urban,82923,285,Hilltop
+384,57,Urban,47392,6278,Brookfield
+385,53,Urban,55504,5159,Stonebridge
+386,76,Urban,80962,57,Sunset City
+387,56,Urban,88753,6187,Maple Heights
+388,19,Urban,159524,5492,Grassville
+389,58,Urban,82948,3236,Maple Heights
+390,70,Rural,33155,275,Cedar Valley
+391,35,Urban,54474,542,Brighton
+392,63,Urban,93774,1496,Stonebridge
+393,40,Rural,36811,344,Cedar Valley
+394,80,Urban,99879,1211,Brookfield
+395,71,Urban,71360,7325,Silverlake
+396,43,Urban,74196,4878,Brighton
+397,28,Rural,36809,172,Willowbrook
+398,65,Urban,59507,3138,Sunset City
+399,18,Rural,38705,61,Pineville
+400,53,Rural,31491,732,Forest Hollow
+401,67,Urban,58516,1262,Silverlake
+402,37,Rural,28868,11,Willowbrook
+403,48,Urban,56370,4262,Silverlake
+404,25,Urban,65954,1513,Brighton
+405,57,Rural,47643,1067,Willowbrook
+406,41,Urban,65166,2489,Silverlake
+407,71,Rural,26153,1896,Forest Hollow
+408,37,Urban,97858,1339,Brookfield
+409,72,Rural,29038,2147,Pineville
+410,32,Rural,37680,57,Pineville
+411,47,Urban,78364,3204,Brighton
+412,37,Urban,77140,5522,Hilltop
+413,55,Urban,79848,1227,Maple Heights
+414,19,Urban,53747,1445,Brookfield
+415,23,Urban,81996,9566,Maple Heights
+416,59,Urban,96335,8333,Sunset City
+417,35,Urban,71449,5349,Stonebridge
+418,53,Urban,135593,1912,Grassville
+419,31,Urban,76001,2692,Silverlake
+420,43,Urban,56796,2900,Maple Heights
+421,51,Rural,32091,383,Pineville
+422,71,Urban,80253,915,Sunset City
+423,47,Urban,60410,4860,Riverfall
+424,24,Urban,83270,1756,Brighton
+425,76,Urban,140340,1028,Grassville
+426,47,Urban,46208,4130,Riverfall
+427,35,Urban,67270,1084,Brighton
+428,39,Urban,76576,6069,Sunset City
+429,34,Rural,35491,1125,Willowbrook
+430,48,Urban,64898,8497,Riverfall
+431,73,Urban,66223,3760,Lakeside
+432,34,Urban,46769,965,Stonebridge
+433,48,Rural,33718,673,Cedar Valley
+434,30,Rural,26171,36,Cedar Valley
+435,44,Rural,32041,68,Cedar Valley
+436,37,Urban,71573,2349,Sunset City
+437,34,Urban,33947,1221,Sunset City
+438,46,Rural,32781,11,Cedar Valley
+439,56,Urban,81158,1111,Brighton
+440,52,Rural,35257,472,Cedar Valley
+441,25,Urban,61460,743,Riverfall
+442,60,Urban,64385,1893,Stonebridge
+443,55,Urban,56388,2744,Riverfall
+444,32,Urban,85755,8921,Lakeside
+445,67,Rural,36195,356,Willowbrook
+446,18,Urban,88739,1336,Stonebridge
+447,50,Rural,38283,399,Forest Hollow
+448,20,Urban,68347,4824,Silverlake
+449,56,Urban,55450,3624,Hilltop
+450,55,Urban,54486,5311,Brighton
+451,65,Urban,79005,2574,Hilltop
+452,80,Urban,71299,2882,Silverlake
+453,79,Urban,98429,3629,Maple Heights
+454,32,Rural,33765,238,Pineville
+455,79,Urban,74186,2166,Maple Heights
+456,78,Urban,154181,744,Grassville
+457,59,Urban,65837,745,Lakeside
+458,35,Urban,92357,11786,Sunset City
+459,55,Urban,69838,7425,Hilltop
+460,48,Urban,79349,2132,Brookfield
+461,37,Urban,60769,5584,Silverlake
+462,76,Urban,82412,3065,Silverlake
+463,24,Urban,76858,7893,Hilltop
+464,54,Urban,89533,8692,Maple Heights
+465,44,Urban,91590,9984,Stonebridge
+466,25,Urban,94232,8058,Stonebridge
+467,31,Urban,58082,2300,Stonebridge
+468,67,Urban,73427,3994,Riverfall
+469,32,Urban,57054,2306,Stonebridge
+470,24,Urban,70329,3869,Silverlake
+471,50,Urban,87454,4557,Stonebridge
+472,69,Rural,31041,170,Pineville
+473,51,Urban,68267,8738,Sunset City
+474,21,Urban,87116,2571,Stonebridge
+475,18,Urban,152765,3082,Grassville
+476,58,Urban,86824,5491,Brookfield
+477,80,Urban,68495,6746,Maple Heights
+478,80,Urban,78137,1350,Hilltop
+479,31,Urban,68163,2131,Maple Heights
+480,48,Urban,94792,622,Brighton
+481,55,Rural,27796,1122,Forest Hollow
+482,67,Urban,70037,210,Brighton
+483,70,Urban,63258,409,Maple Heights
+484,37,Urban,71971,3266,Silverlake
+485,20,Urban,85318,1303,Lakeside
+486,52,Urban,32311,4186,Maple Heights
+487,63,Urban,70381,2906,Lakeside
+488,50,Urban,87996,381,Stonebridge
+489,32,Urban,96632,2898,Maple Heights
+490,20,Urban,68102,902,Silverlake
+491,45,Urban,64767,2558,Brighton
+492,44,Urban,83974,5236,Lakeside
+493,64,Urban,79525,7925,Silverlake
+494,64,Urban,72992,2980,Lakeside
+495,50,Urban,20044,1584,Hilltop
+496,36,Urban,152689,8127,Grassville
+497,73,Urban,79605,4179,Silverlake
+498,75,Urban,164810,1872,Grassville
+499,50,Urban,50979,1905,Maple Heights
+500,48,Urban,63755,1597,Brighton
+501,21,Urban,73233,10479,Maple Heights
+502,49,Urban,63492,4597,Brookfield
+503,59,Urban,89295,2242,Brighton
+504,45,Urban,60082,3716,Stonebridge
+505,73,Urban,104489,3194,Brighton
+506,33,Rural,33773,643,Cedar Valley
+507,66,Urban,76505,5685,Brighton
+508,60,Rural,32850,47,Pineville
+509,45,Rural,30811,541,Forest Hollow
+510,32,Urban,99149,3226,Silverlake
+511,65,Urban,81699,6697,Riverfall
+512,39,Urban,68055,2888,Brighton
+513,48,Urban,76939,4590,Hilltop
+514,77,Rural,29006,97,Cedar Valley
+515,38,Urban,86840,8125,Brighton
+516,49,Urban,79681,3118,Sunset City
+517,24,Urban,65365,5712,Riverfall
+518,50,Rural,40595,188,Forest Hollow
+519,25,Urban,44799,2275,Lakeside
+520,31,Urban,67842,3449,Riverfall
+521,79,Urban,38271,3790,Maple Heights
+522,74,Rural,45643,712,Cedar Valley
+523,42,Urban,154717,7306,Grassville
+524,49,Urban,96951,8882,Brighton
+525,45,Urban,85635,5427,Hilltop
+526,19,Urban,157869,3808,Grassville
+527,34,Urban,51518,1047,Lakeside
+528,44,Urban,72556,4731,Silverlake
+529,19,Urban,158919,6374,Grassville
+530,25,Urban,72263,2845,Brookfield
+531,55,Rural,23666,216,Forest Hollow
+532,37,Urban,67001,5965,Maple Heights
+533,66,Urban,62200,1467,Sunset City
+534,54,Urban,67830,2368,Brookfield
+535,74,Urban,145901,4645,Grassville
+536,38,Urban,79158,8483,Sunset City
+537,43,Urban,76925,6379,Maple Heights
+538,48,Urban,93851,1797,Hilltop
+539,37,Rural,35060,754,Meadowtown
+540,23,Rural,42787,647,Pineville
+541,67,Urban,72223,6603,Lakeside
+542,32,Urban,104554,9546,Brighton
+543,74,Urban,71498,1732,Maple Heights
+544,18,Urban,53576,1182,Hilltop
+545,43,Rural,27013,178,Willowbrook
+546,46,Urban,136136,2748,Grassville
+547,19,Rural,34505,297,Forest Hollow
+548,39,Urban,74822,3063,Stonebridge
+549,78,Urban,80697,14181,Sunset City
+550,77,Urban,101069,1010,Riverfall
+551,46,Urban,20559,720,Hilltop
+552,26,Urban,82024,8289,Maple Heights
+553,58,Urban,64842,3598,Riverfall
+554,38,Rural,37256,142,Pineville
+555,72,Urban,45361,3041,Riverfall
+556,74,Rural,42388,58,Forest Hollow
+557,49,Urban,87580,2887,Hilltop
+558,49,Urban,63915,4653,Maple Heights
+559,64,Rural,31447,169,Forest Hollow
+560,61,Urban,71177,1652,Riverfall
+561,57,Rural,34234,308,Pineville
+562,43,Urban,54985,4639,Sunset City
+563,65,Urban,94798,6190,Sunset City
+564,79,Urban,60540,2992,Brighton
+565,30,Urban,95484,2240,Stonebridge
+566,20,Rural,21949,186,Forest Hollow
+567,49,Urban,169872,2813,Grassville
+568,50,Rural,34846,855,Forest Hollow
+569,50,Rural,41486,396,Forest Hollow
+570,59,Urban,152230,6107,Grassville
+571,59,Rural,34247,479,Cedar Valley
+572,30,Rural,34888,13,Willowbrook
+573,60,Urban,76734,4638,Maple Heights
+574,23,Urban,93248,3274,Sunset City
+575,21,Urban,48473,754,Stonebridge
+576,55,Urban,52987,6255,Maple Heights
+577,23,Urban,49451,1277,Riverfall
+578,68,Urban,104172,2715,Riverfall
+579,20,Urban,50596,2466,Brighton
+580,44,Rural,24571,810,Meadowtown
+581,57,Urban,62328,5962,Riverfall
+582,37,Urban,63904,6315,Brighton
+583,35,Urban,97190,813,Maple Heights
+584,37,Urban,67600,5163,Silverlake
+585,47,Urban,70943,850,Lakeside
+586,27,Urban,43494,5154,Sunset City
+587,69,Urban,83642,5466,Sunset City
+588,40,Urban,45835,3791,Stonebridge
+589,64,Urban,142423,1395,Grassville
+590,20,Urban,59150,385,Maple Heights
+591,69,Urban,65015,1886,Riverfall
+592,67,Urban,141431,2686,Grassville
+593,75,Urban,54406,3418,Brookfield
+594,79,Urban,63782,4904,Hilltop
+595,26,Urban,76802,4567,Brighton
+596,66,Urban,82935,3913,Stonebridge
+597,36,Urban,97197,2831,Silverlake
+598,53,Urban,65794,1494,Stonebridge
+599,57,Urban,49891,5528,Hilltop
+600,44,Urban,69892,2799,Riverfall
+601,59,Urban,66174,5584,Hilltop
+602,45,Rural,36543,522,Cedar Valley
+603,60,Rural,30924,679,Meadowtown
+604,68,Rural,34913,48,Cedar Valley
+605,25,Urban,67076,3377,Hilltop
+606,59,Urban,74207,3426,Silverlake
+607,65,Urban,76917,1142,Hilltop
+608,25,Rural,34285,688,Willowbrook
+609,35,Rural,29047,823,Cedar Valley
+610,76,Urban,52536,868,Brighton
+611,38,Urban,57880,7592,Brookfield
+612,63,Urban,67307,2648,Silverlake
+613,30,Rural,32647,1689,Cedar Valley
+614,44,Urban,64299,3308,Hilltop
+615,64,Urban,79709,3421,Brighton
+616,77,Urban,70902,1232,Hilltop
+617,79,Rural,31849,227,Pineville
+618,57,Rural,39523,315,Forest Hollow
+619,70,Urban,157626,5843,Grassville
+620,33,Urban,79253,1747,Brookfield
+621,57,Urban,133833,5033,Grassville
+622,80,Urban,130069,5340,Grassville
+623,26,Urban,72800,2061,Brookfield
+624,44,Urban,76234,3684,Brookfield
+625,80,Urban,49826,1444,Maple Heights
+626,34,Rural,39219,408,Forest Hollow
+627,20,Urban,50152,13454,Brookfield
+628,73,Urban,96494,1847,Brookfield
+629,70,Rural,28808,268,Cedar Valley
+630,21,Urban,94841,6368,Silverlake
+631,57,Rural,28949,90,Forest Hollow
+632,69,Rural,38727,65,Pineville
+633,73,Urban,73653,3537,Lakeside
+634,18,Rural,38549,868,Forest Hollow
+635,31,Rural,29269,429,Forest Hollow
+636,25,Urban,84077,2046,Brookfield
+637,24,Urban,49635,5385,Stonebridge
+638,47,Rural,43135,216,Pineville
+639,42,Urban,139790,3340,Grassville
+640,56,Rural,26288,463,Pineville
+641,33,Urban,89915,4672,Riverfall
+642,28,Rural,31548,346,Pineville
+643,42,Urban,70754,2615,Brookfield
+644,50,Urban,79815,4140,Hilltop
+645,80,Urban,68963,5619,Lakeside
+646,78,Rural,36702,408,Willowbrook
+647,71,Urban,172690,1127,Grassville
+648,69,Rural,34736,85,Pineville
+649,68,Urban,75867,496,Brookfield
+650,65,Rural,31016,938,Meadowtown
+651,38,Urban,99339,2843,Brookfield
+652,69,Rural,37779,80,Forest Hollow
+653,69,Rural,22486,688,Meadowtown
+654,27,Rural,24148,296,Willowbrook
+655,73,Urban,104185,790,Maple Heights
+656,67,Rural,30344,725,Forest Hollow
+657,26,Urban,54879,2081,Silverlake
+658,18,Urban,60071,1694,Riverfall
+659,51,Urban,70241,3273,Riverfall
+660,48,Urban,78671,2637,Silverlake
+661,38,Urban,86087,2327,Hilltop
+662,41,Urban,53818,2176,Stonebridge
+663,36,Urban,92851,5448,Hilltop
+664,78,Urban,56281,11066,Hilltop
+665,65,Urban,80772,1618,Maple Heights
+666,77,Urban,101585,7589,Maple Heights
+667,77,Urban,88562,5598,Sunset City
+668,38,Urban,74112,3639,Silverlake
+669,42,Rural,27759,99,Cedar Valley
+670,37,Rural,26450,2079,Cedar Valley
+671,70,Urban,75622,2656,Brighton
+672,43,Urban,103368,4129,Maple Heights
+673,80,Urban,63269,7199,Riverfall
+674,24,Urban,79346,3527,Brookfield
+675,20,Urban,65144,5927,Hilltop
+676,57,Urban,73736,670,Brighton
+677,73,Urban,81247,1363,Silverlake
+678,65,Urban,71159,10139,Lakeside
+679,25,Urban,71992,6299,Silverlake
+680,70,Urban,70682,2571,Brookfield
+681,47,Rural,29215,700,Cedar Valley
+682,28,Urban,70935,9143,Maple Heights
+683,25,Rural,25704,101,Meadowtown
+684,74,Rural,28889,3,Cedar Valley
+685,54,Urban,159064,3337,Grassville
+686,34,Rural,35309,95,Meadowtown
+687,25,Urban,67733,8264,Sunset City
+688,64,Rural,40140,2326,Willowbrook
+689,61,Urban,77912,8380,Brookfield
+690,47,Rural,29270,338,Forest Hollow
+691,60,Rural,42316,265,Pineville
+692,60,Urban,99800,1005,Riverfall
+693,33,Rural,29970,115,Cedar Valley
+694,72,Urban,69443,3603,Maple Heights
+695,21,Rural,25603,980,Pineville
+696,38,Urban,75067,8993,Hilltop
+697,67,Urban,78669,8655,Silverlake
+698,51,Urban,59923,2941,Stonebridge
+699,79,Rural,38541,193,Pineville
+700,57,Urban,95830,1013,Silverlake
+701,52,Rural,34333,71,Willowbrook
+702,30,Rural,30594,942,Pineville
+703,60,Urban,75017,3760,Maple Heights
+704,44,Rural,21041,336,Willowbrook
+705,25,Urban,71849,2244,Silverlake
+706,58,Urban,93420,4697,Brookfield
+707,59,Rural,31854,85,Meadowtown
+708,46,Rural,37149,54,Pineville
+709,79,Urban,64567,1064,Lakeside
+710,33,Urban,69278,8161,Sunset City
+711,60,Rural,35160,165,Willowbrook
+712,70,Rural,34077,124,Pineville
+713,63,Rural,27548,837,Cedar Valley
+714,22,Urban,56450,7559,Sunset City
+715,54,Urban,48851,1478,Stonebridge
+716,57,Urban,53945,3448,Riverfall
+717,57,Urban,91033,6234,Maple Heights
+718,59,Urban,64338,3362,Brookfield
+719,77,Rural,32710,919,Pineville
+720,27,Rural,36198,1578,Forest Hollow
+721,32,Rural,25740,1282,Willowbrook
+722,38,Rural,39864,114,Pineville
+723,51,Rural,33967,907,Pineville
+724,39,Urban,83149,3771,Sunset City
+725,39,Rural,39168,74,Meadowtown
+726,26,Rural,25021,462,Pineville
+727,43,Rural,24704,231,Willowbrook
+728,30,Rural,28888,41,Pineville
+729,71,Urban,87935,4313,Silverlake
+730,35,Urban,70758,7459,Sunset City
+731,18,Urban,58547,2107,Lakeside
+732,40,Urban,73898,10725,Riverfall
+733,50,Rural,27140,3260,Willowbrook
+734,64,Rural,28741,149,Meadowtown
+735,48,Urban,84394,4813,Silverlake
+736,75,Urban,61204,1893,Maple Heights
+737,38,Urban,49657,4691,Stonebridge
+738,40,Urban,84770,5913,Hilltop
+739,33,Rural,34546,680,Pineville
+740,78,Rural,31160,124,Meadowtown
+741,44,Urban,67544,251,Maple Heights
+742,54,Urban,160783,4827,Grassville
+743,80,Urban,103981,2430,Brighton
+744,55,Urban,75935,5390,Stonebridge
+745,69,Urban,75562,7431,Stonebridge
+746,31,Urban,84792,4954,Brookfield
+747,54,Urban,84589,8631,Hilltop
+748,64,Urban,106581,6779,Stonebridge
+749,24,Urban,75353,5338,Stonebridge
+750,29,Urban,68187,2826,Maple Heights
+751,45,Rural,36075,25,Willowbrook
+752,20,Urban,66031,5562,Riverfall
+753,39,Rural,34946,609,Cedar Valley
+754,68,Urban,61884,6637,Silverlake
+755,38,Urban,94478,3966,Hilltop
+756,80,Urban,96124,3673,Sunset City
+757,46,Urban,79545,10122,Hilltop
+758,37,Urban,72997,5657,Maple Heights
+759,20,Rural,35953,376,Pineville
+760,44,Urban,147051,8127,Grassville
+761,38,Urban,93950,14615,Brighton
+762,58,Rural,32224,73,Meadowtown
+763,50,Urban,60718,2834,Brighton
+764,47,Rural,31147,1731,Willowbrook
+765,65,Urban,80844,4234,Stonebridge
+766,56,Urban,72171,5027,Hilltop
+767,58,Rural,24960,964,Forest Hollow
+768,76,Rural,28113,795,Pineville
+769,26,Rural,30168,76,Willowbrook
+770,65,Rural,31597,722,Pineville
+771,55,Rural,24041,348,Forest Hollow
+772,40,Rural,30961,291,Meadowtown
+773,71,Urban,86125,5025,Brighton
+774,40,Urban,106450,7248,Lakeside
+775,18,Urban,39566,6018,Brookfield
+776,38,Urban,83553,3757,Riverfall
+777,49,Urban,154417,2373,Grassville
+778,62,Urban,96924,4178,Sunset City
+779,43,Rural,29197,30,Willowbrook
+780,50,Urban,94505,3240,Sunset City
+781,77,Urban,98584,960,Stonebridge
+782,26,Urban,77504,4297,Brighton
+783,34,Rural,23358,276,Meadowtown
+784,23,Rural,24219,284,Cedar Valley
+785,63,Rural,39535,360,Forest Hollow
+786,24,Urban,153066,1882,Grassville
+787,24,Urban,83150,299,Brighton
+788,74,Urban,91845,809,Hilltop
+789,74,Rural,29559,466,Cedar Valley
+790,54,Urban,93363,2253,Brookfield
+791,22,Urban,54252,2800,Silverlake
+792,50,Rural,28420,88,Forest Hollow
+793,67,Urban,99562,1561,Brookfield
+794,27,Urban,99066,3035,Silverlake
+795,34,Rural,30085,237,Pineville
+796,57,Urban,66590,2515,Hilltop
+797,45,Urban,148429,9188,Grassville
+798,64,Urban,76776,3087,Maple Heights
+799,63,Rural,31922,1747,Cedar Valley
+800,39,Rural,40475,1171,Pineville
+801,38,Urban,60454,2705,Lakeside
+802,79,Urban,91348,1367,Silverlake
+803,64,Urban,59766,4557,Hilltop
+804,73,Urban,149490,2002,Grassville
+805,49,Urban,68451,1406,Riverfall
+806,49,Urban,65069,944,Maple Heights
+807,68,Rural,43820,651,Pineville
+808,53,Rural,39904,458,Willowbrook
+809,48,Rural,36654,1977,Cedar Valley
+810,23,Urban,84205,3795,Brighton
+811,71,Urban,101905,11938,Lakeside
+812,38,Rural,25183,416,Willowbrook
+813,52,Urban,82611,2663,Maple Heights
+814,31,Urban,75541,8766,Brighton
+815,40,Urban,148155,769,Grassville
+816,79,Urban,73617,1493,Lakeside
+817,59,Urban,68325,1137,Silverlake
+818,79,Urban,74862,1138,Maple Heights
+819,41,Urban,81504,3822,Maple Heights
+820,47,Urban,145437,1142,Grassville
+821,27,Rural,28640,252,Pineville
+822,22,Urban,72821,2808,Brighton
+823,80,Urban,79973,3319,Sunset City
+824,78,Rural,22107,100,Willowbrook
+825,76,Rural,34448,311,Willowbrook
+826,59,Urban,96822,4686,Brighton
+827,47,Rural,37147,128,Pineville
+828,24,Urban,92736,2923,Silverlake
+829,23,Urban,69005,1713,Riverfall
+830,25,Urban,63578,3759,Brookfield
+831,69,Urban,87854,2407,Sunset City
+832,43,Rural,30251,722,Cedar Valley
+833,76,Urban,95647,205,Brighton
+834,35,Urban,97369,9651,Riverfall
+835,53,Urban,58399,1925,Sunset City
+836,43,Urban,76757,12833,Silverlake
+837,53,Urban,77937,2760,Brookfield
+838,58,Rural,41276,392,Willowbrook
+839,21,Rural,33456,602,Forest Hollow
+840,71,Urban,86018,1853,Stonebridge
+841,77,Urban,65600,2623,Sunset City
+842,30,Urban,83650,10992,Brighton
+843,72,Rural,39187,128,Forest Hollow
+844,41,Rural,35215,2207,Meadowtown
+845,72,Rural,36335,285,Forest Hollow
+846,48,Rural,32280,83,Willowbrook
+847,80,Rural,37535,48,Cedar Valley
+848,39,Rural,29313,1743,Cedar Valley
+849,57,Urban,65736,5509,Sunset City
+850,35,Urban,86510,5190,Brookfield
+851,51,Urban,109585,8567,Brookfield
+852,40,Urban,82146,3345,Sunset City
+853,56,Urban,49711,2340,Lakeside
+854,64,Rural,39683,830,Forest Hollow
+855,54,Rural,39607,1173,Forest Hollow
+856,75,Urban,76101,6847,Brookfield
+857,64,Urban,47430,2858,Hilltop
+858,18,Rural,36970,424,Cedar Valley
+859,76,Urban,150151,6609,Grassville
+860,59,Urban,87004,3592,Riverfall
+861,37,Urban,47489,5532,Stonebridge
+862,64,Urban,70264,2577,Sunset City
+863,42,Rural,36570,645,Forest Hollow
+864,23,Urban,144398,4658,Grassville
+865,69,Rural,39061,538,Pineville
+866,47,Rural,31509,232,Cedar Valley
+867,37,Rural,28342,241,Cedar Valley
+868,26,Urban,83619,2856,Sunset City
+869,73,Urban,72794,871,Maple Heights
+870,65,Urban,88146,2661,Lakeside
+871,66,Rural,49021,353,Meadowtown
+872,35,Urban,91157,1973,Maple Heights
+873,57,Rural,30742,89,Willowbrook
+874,20,Urban,79248,3100,Silverlake
+875,53,Urban,99313,1981,Brookfield
+876,23,Urban,100586,4838,Hilltop
+877,61,Urban,110242,2078,Brookfield
+878,55,Urban,62856,1031,Brookfield
+879,18,Urban,84124,629,Riverfall
+880,36,Urban,88893,4846,Brookfield
+881,55,Urban,90307,2653,Maple Heights
+882,45,Rural,31933,1204,Pineville
+883,64,Urban,86313,4018,Brighton
+884,26,Rural,24726,477,Forest Hollow
+885,64,Rural,34524,274,Cedar Valley
+886,80,Urban,147536,1572,Grassville
+887,27,Rural,30023,1033,Cedar Valley
+888,41,Urban,67090,5609,Brookfield
+889,43,Urban,57687,3013,Brighton
+890,25,Rural,32550,976,Meadowtown
+891,22,Rural,26177,888,Pineville
+892,30,Rural,32023,102,Willowbrook
+893,39,Rural,30376,626,Meadowtown
+894,51,Rural,36051,89,Willowbrook
+895,42,Urban,50200,5211,Riverfall
+896,40,Rural,35557,927,Forest Hollow
+897,58,Urban,84811,1395,Brighton
+898,65,Rural,30449,712,Pineville
+899,38,Urban,32419,4668,Silverlake
+900,20,Rural,29663,918,Meadowtown
+901,25,Urban,64427,818,Brookfield
+902,63,Rural,30985,19,Forest Hollow
+903,67,Rural,27074,242,Cedar Valley
+904,79,Urban,62522,5394,Brighton
+905,56,Rural,33821,322,Willowbrook
+906,68,Rural,31021,488,Willowbrook
+907,56,Urban,70438,3784,Stonebridge
+908,39,Rural,37861,407,Willowbrook
+909,62,Urban,144815,4464,Grassville
+910,28,Urban,94573,2095,Maple Heights
+911,40,Urban,146350,5734,Grassville
+912,66,Urban,155519,5920,Grassville
+913,33,Rural,25020,256,Cedar Valley
+914,69,Urban,79235,1696,Riverfall
+915,77,Urban,73759,5004,Sunset City
+916,68,Rural,42017,1654,Meadowtown
+917,45,Rural,27961,156,Willowbrook
+918,52,Urban,85586,3695,Maple Heights
+919,59,Rural,24882,257,Meadowtown
+920,46,Rural,36409,534,Forest Hollow
+921,76,Urban,159854,918,Grassville
+922,73,Urban,68586,8258,Silverlake
+923,55,Urban,72852,2325,Lakeside
+924,23,Rural,36734,46,Meadowtown
+925,66,Urban,104225,3412,Silverlake
+926,31,Urban,77157,1605,Brookfield
+927,46,Urban,76550,3642,Hilltop
+928,66,Rural,31071,1038,Pineville
+929,79,Urban,91344,3514,Silverlake
+930,45,Rural,27986,946,Cedar Valley
+931,27,Urban,147402,1087,Grassville
+932,63,Rural,48491,17,Meadowtown
+933,64,Urban,77155,2047,Sunset City
+934,21,Urban,73315,5320,Lakeside
+935,41,Urban,79925,14715,Stonebridge
+936,19,Urban,154511,4195,Grassville
+937,63,Urban,59812,4798,Maple Heights
+938,76,Urban,63555,2165,Lakeside
+939,46,Rural,29675,382,Meadowtown
+940,42,Urban,152642,3494,Grassville
+941,48,Urban,45034,1004,Hilltop
+942,64,Rural,46758,338,Willowbrook
+943,68,Urban,86540,1547,Maple Heights
+944,63,Urban,84597,5101,Sunset City
+945,32,Rural,24743,31,Cedar Valley
+946,55,Urban,86986,2602,Stonebridge
+947,50,Urban,154712,1205,Grassville
+948,67,Rural,28761,133,Willowbrook
+949,66,Rural,28478,412,Pineville
+950,25,Rural,29706,186,Willowbrook
+951,57,Urban,71540,2846,Hilltop
+952,33,Rural,19805,227,Pineville
+953,55,Rural,35878,124,Forest Hollow
+954,61,Urban,63455,1448,Stonebridge
+955,58,Urban,97187,890,Riverfall
+956,51,Urban,150191,12312,Grassville
+957,80,Urban,66971,4072,Hilltop
+958,23,Rural,29044,883,Willowbrook
+959,56,Urban,74957,3401,Stonebridge
+960,57,Urban,90248,4156,Stonebridge
+961,66,Urban,101212,2619,Silverlake
+962,40,Rural,31040,56,Meadowtown
+963,70,Urban,68699,6764,Maple Heights
+964,67,Rural,40720,52,Cedar Valley
+965,38,Urban,80336,9192,Brighton
+966,52,Urban,55856,3786,Hilltop
+967,64,Urban,66653,1526,Brookfield
+968,46,Urban,87202,2086,Brookfield
+969,52,Urban,84209,7122,Maple Heights
+970,19,Rural,31438,119,Pineville
+971,50,Urban,79636,3579,Riverfall
+972,43,Urban,68059,6674,Stonebridge
+973,61,Urban,84554,5797,Sunset City
+974,49,Urban,83811,11189,Sunset City
+975,35,Urban,84605,3934,Riverfall
+976,51,Rural,34658,120,Meadowtown
+977,47,Urban,147574,9099,Grassville
+978,61,Urban,82759,4161,Sunset City
+979,40,Urban,61753,5466,Brookfield
+980,65,Rural,31303,664,Cedar Valley
+981,72,Rural,32785,1048,Meadowtown
+982,37,Urban,108993,5453,Stonebridge
+983,63,Urban,88507,1474,Riverfall
+984,80,Urban,77745,2624,Hilltop
+985,75,Urban,73911,6390,Brookfield
+986,40,Urban,80266,3360,Hilltop
+987,57,Urban,79692,1289,Silverlake
+988,25,Urban,74875,1769,Brookfield
+989,31,Urban,70058,4232,Maple Heights
+990,77,Urban,58696,4866,Sunset City
+991,40,Rural,29637,28,Forest Hollow
+992,63,Urban,81512,1376,Lakeside
+993,31,Urban,88676,811,Brighton
+994,19,Urban,62040,5349,Brookfield
+995,75,Rural,30130,531,Forest Hollow
+996,21,Urban,75051,3726,Lakeside
+997,41,Urban,97583,826,Sunset City
+998,68,Urban,111832,6774,Sunset City
+999,53,Urban,61912,4867,Silverlake
+1000,26,Urban,53610,8235,Riverfall
